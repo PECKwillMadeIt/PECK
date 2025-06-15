@@ -26,12 +26,12 @@ READMEにGithubをかっこいい見た目にする内容記載
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
+### 👋 **Hi, I'm PECK!**
 🚀 **Flutter Developer** passionate about mobile development  
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
+☕ **Powered by:** Protein and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
 
 </td>
